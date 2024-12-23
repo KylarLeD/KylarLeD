@@ -1,8 +1,28 @@
-<h1>Hello, and welcome to my GitHub profile.</h1>
-<p>My name is Kylar LeDoux, and have been a computer science for half a semester.<br>
-I work on small things such as automation scripts, minimal websites, and other small python projects.<br>
-I know html and css pretty well, and I'm <i>ok</i> at python and javascript<br>
-I'm currently learning C and trying to get better at python.</p>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
-<br><br>
-<p>For more information, please refer to <a href="https://kylarled.xyz/">my website</a></p>
+$${\color{#5D3FD3}./KylarLeDoux.sh}$$
+<hr>
+<p>Hello, and welcome to my profile, my name is Kylar.<br>
+I have been a computer science student for half a semester, but I have been coding for a little over a year now.<br>
+I'm open to working with other people, so if you ever want to work on a project, feel free to <a href="mailto:ledouxkylar@gmail.com"">email me</a>!</p>
+
+<h4>Language's I know.</h4>
+
+[![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
+
+<h4>Language's I know, but need more work on.</h4>
+
+[![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
+
+<h4>Language's I'm learning.</h4>
+
+[![My Skills](https://skillicons.dev/icons?i=c,java,asm)](https://skillicons.dev)
+
+<h4>Operating System's I've used.</h4>
+
+[![My Skills](https://skillicons.dev/icons?i=windows,linux)](https://skillicons.dev)
+
+<h4>Linux distro's I've used</h4>
+
+[![My Skills](https://skillicons.dev/icons?i=arch,debian,kali)](https://skillicons.dev)<br>
+
+<p>I'm always up to work on something/learn something new.</p>
+<p>For more information, please visit <a href="https://kylarled.xyz/">kylarled.xyz</a></p>
