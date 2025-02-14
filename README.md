@@ -6,15 +6,15 @@ I'm open to working with other people, so if you ever want to work on a project,
 
 <h4>Language's I know.</h4>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,python)](https://skillicons.dev)
 
 <h4>Language's I know, but need more work on.</h4>
 
-[![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
 
 <h4>Language's I'm learning.</h4>
 
-[![My Skills](https://skillicons.dev/icons?i=c,java,asm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,asm)](https://skillicons.dev)
 
 <h4>Operating System's I've used.</h4>
 
