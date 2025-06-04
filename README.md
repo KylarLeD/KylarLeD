@@ -1,5 +1,4 @@
-$${\color{#5D3FD3}./KylarLeDoux.sh}$$
-<hr>
+# Kylar LeDoux
 <p>Hello, and welcome to my profile, my name is Kylar.<br>
 I have been a computer science student for half a semester, but I have been coding for a little over a year now.<br>
 I'm open to working with other people, so if you ever want to work on a project, feel free to <a href="mailto:ledouxkylar@gmail.com"">email me</a>!</p>
