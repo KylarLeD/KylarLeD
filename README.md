@@ -2,8 +2,8 @@
 <p>
   Hello and welcome to my GitHub.<br>
   My name is Kylar, I am a self-taught Computer Science and Cybersecurity enthusiast with a focus on Web Application Security.<br>
-  I'm open to working with other people, so if you ever want to work on a project, feel free to <a href="mailto:ledouxkylar@gmail.com"">email me</a>!
-  I'm always up to work on something/learn something new.<br>
+  I'm open to working with other people, so if you'd like to work on a project, feel free to <a href="mailto:ledouxkylar@gmail.com"">email me,</a>
+  I’m constantly seeking to learn new skills.<br>
 </p>
 <h3>Languages I Practice:</h3>
 <ul>
