@@ -1,27 +1,23 @@
 # Kylar LeDoux
-<p>Hello, and welcome to my profile, my name is Kylar.<br>
-I have been a computer science student for a year now, but I have been coding for a little over two years now.<br>
-I'm open to working with other people, so if you ever want to work on a project, feel free to <a href="mailto:ledouxkylar@gmail.com"">email me</a>!</p>
+<p>
+  Hello and welcome to my GitHub.<br>
+  My name is Kylar, I am a self-taught Computer Science and Cybersecurity enthusiast with a focus on Web Application Security.<br>
+  I'm open to working with other people, so if you ever want to work on a project, feel free to <a href="mailto:ledouxkylar@gmail.com"">email me</a>!
+  I'm always up to work on something/learn something new.<br>
+</p>
+<h3>Languages I Practice:</h3>
+<ul>
+  <li>JavaScript</li>
+  <li>Python</li>
+  <li>PHP</li>
+</ul>
+<h3>Cybersecurity/WebSec:</h3>
+<ul>
+  <li>Web hosting with Nginx</li>
+  <li>Web shell upload with path directory</li>
+  <li>Linux hardening</li>
+  <li>Created static websites as well as dynamic websites</li>
+  <li>Developed a backend using Node.js</li>
+</ul>
 
-<h4>Language's I know.</h4>
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,python)](https://skillicons.dev)
-
-<h4>Language's I know, but need more work on.</h4>
-
-[![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
-
-<h4>Language's I'm learning.</h4>
-
-[![My Skills](https://skillicons.dev/icons?i=c,asm)](https://skillicons.dev)
-
-<h4>Operating System's I've used.</h4>
-
-[![My Skills](https://skillicons.dev/icons?i=windows,linux)](https://skillicons.dev)
-
-<h4>Linux distro's I've used</h4>
-
-[![My Skills](https://skillicons.dev/icons?i=arch,debian,kali)](https://skillicons.dev)<br>
-
-<p>I'm always up to work on something/learn something new.</p>
 <p>For more information, please visit <a href="https://kylarled.xyz/">kylarled.xyz</a></p>
