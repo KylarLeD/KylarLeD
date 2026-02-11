@@ -19,5 +19,3 @@
   <li>Created static websites as well as dynamic websites</li>
   <li>Developed a backend using Node.js</li>
 </ul>
-
-<p>For more information, please visit <a href="https://kylarled.xyz/">kylarled.xyz</a></p>
